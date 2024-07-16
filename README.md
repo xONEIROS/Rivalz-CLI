@@ -59,7 +59,9 @@ screen -S rivalz
 ```
 
 حالا دستور زیر رو اجرا می‌کنیم:
-
+```
+rivalz update-version
+```
 ```bash
 rivalz run
 ```
