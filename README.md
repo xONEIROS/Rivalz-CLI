@@ -58,7 +58,7 @@ apt install screen
 screen -S rivalz
 ```
 
-حالا دستور زیر رو اجرا می‌کنیم:
+حالا به ترتیب دو دستور زیر رو اجرا می‌کنیم:
 ```
 rivalz update-version
 ```
